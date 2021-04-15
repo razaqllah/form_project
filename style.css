@@ -13,13 +13,22 @@ font-family: 'Roboto', sans-serif;
 
 *{
       box-sizing: border-box;
+
 }
+.header_logo img{
+      position: relative ;
+      width: 100px;
+      margin: 40px;
+
+}
+.header_menu{
+      list-style-type: none;
+      float: right;
+      overflow: hidden;
 
 body{
       margin:0;
       padding:0;
       font-size:medium;
-}.logo_img{
-      width: 100%;
-      margin: 45px;
+
 }
