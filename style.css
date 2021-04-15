@@ -13,15 +13,7 @@ font-family: 'Roboto', sans-serif;
 
 *{
       box-sizing: border-box;
-}
-body{
-      margin: 0%;
-      font-size: large;
-      font-family: 'Noto Sans HK', sans-serif;
-}
-.header{
-      width: 100%;
-      background-color: #3A4A3A;
+
 }
 .header_logo img{
       position: relative ;
@@ -33,5 +25,10 @@ body{
       list-style-type: none;
       float: right;
       overflow: hidden;
+
+body{
+      margin:0;
+      padding:0;
+      font-size:medium;
 
 }
